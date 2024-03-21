@@ -1,12 +1,15 @@
 ### Hi there, I'm Wendy! 😄👋
-Check out my <a>
-<img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-007481">
-</a> showcasing my works!
+<p align="center">
+  Check out my <a><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-007481"></a> showcasing my works!
+</p>
 
 <br><br>
 
 <h2>Design</h2>
-<a href="#"><img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"></img></a>
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"></img></a>
+</p>
+  
 <!--
 **wendyychenn/wendyychenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
