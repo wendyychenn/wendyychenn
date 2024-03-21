@@ -1,5 +1,5 @@
 ### Hi there, I'm Wendy! 😄👋
-<p align="center">
+<p justify="center">
   Check out my <a><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-007481"></a> showcasing my works!
 </p>
 
