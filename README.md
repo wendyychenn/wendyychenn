@@ -1,8 +1,8 @@
 ### Hi there, I'm Wendy! 😄👋
-Check out my portfolio showcasing my works!
-<a>
+Check out my <a>
 <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-007481">
-</a>
+</a> showcasing my works!
+
 <br><br>
 
 <h2>Design</h2>
