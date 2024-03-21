@@ -6,7 +6,7 @@ Check out my <a>
 <br><br>
 
 <h2>Design</h2>
-<a src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"></img></a>
 <!--
 **wendyychenn/wendyychenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
